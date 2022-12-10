@@ -11,7 +11,7 @@ This package is heavily influenced by the great work of [Mpociot](https://github
 Install the package via composer:
 
 ```bash
-composer require jeffgreco13/filament-teams
+composer require  h5gs/filament-teams:dev-main
 ```
 
 Publish the config file:
